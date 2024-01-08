@@ -1,1 +1,3 @@
-Sever:gunny8386|url:http://gunny8386.com/
+<CAIDAT>
+	<Gunny Execution="gunny8386" Name="http://gunny8386.com"></Gunny>
+</CAIDAT>
